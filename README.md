@@ -1,2 +1,6 @@
 # hello-world
-Simple hello world repository.
+
+Hello everyone!
+
+
+My name is Steven and this is my simple hello world repository.
